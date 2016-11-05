@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "640426893295",
+    "firebase_url": "https://storageboxdream.firebaseio.com",
+    "project_id": "storageboxdream",
+    "storage_bucket": "storageboxdream.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640426893295:android:933a64a036765927",
+        "android_client_info": {
+          "package_name": "com.devfest.storageboxdream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640426893295-4b6diu3v67n0cbh7kf7os46lo7dqoclp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devfest.storageboxdream",
+            "certificate_hash": "10588E98D6B0BFE37E1B5553D839DEE21EB0DE24"
+          }
+        },
+        {
+          "client_id": "640426893295-jm189pj8tosm8n26sl5jk1fg7p9objun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7tpWFJ9pxSKg7daQz9MzUqsxV3O3-eK4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640426893295-jm189pj8tosm8n26sl5jk1fg7p9objun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
